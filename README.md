@@ -59,7 +59,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Email - ahmadsafdar003@gmail.com <br/>
 Video : https://youtu.be/j0irT3-LHj0 <br/>
-Project Link: https://https://github.com/ahmadsafdar003/Dsa-problem-solver<br/>
+Project Link: https://github.com/ahmadsafdar003/Dsa-problem-solver<br/>
 
 <h3> Preview </h3>
 
