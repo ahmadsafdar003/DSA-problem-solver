@@ -30,7 +30,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Qaiserfarooq285/DSA-Problems-Solver/tree/main/images.git
+   git clone https://github.com/ahmadsafdar003/Dsa-problem-solver.git
    ```
 2. Open the `index.html` file in your web browser to start using the DSA Visualizer.
 
